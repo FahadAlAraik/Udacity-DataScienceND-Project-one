@@ -1,5 +1,7 @@
 # IBM Employee Attrition and Job Satisfaction Analysis
 
+Medium Blog-post: https://fahadalaraik.medium.com/decoding-professional-journeys-a-data-driven-exploration-into-employee-dynamics-at-ibm-0fde275a3e6c
+
 ![Project Image](https://www.ibm.com/brand/experience-guides/developer/8f4e3cc2b5d52354a6d43c8edba1e3c9/02_8-bar-reverse.svg)
 
 ## Introduction
